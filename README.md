@@ -1,1 +1,2 @@
 # TransferMsgByWindowsApi
+使用Windows Api 在两个winform进程之间传递数据
